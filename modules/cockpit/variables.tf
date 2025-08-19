@@ -1,3 +1,7 @@
+variable "project_name" {
+  type = string
+}
+
 variable "cockpit" {
   type = list(object({
     name                  = string

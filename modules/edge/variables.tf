@@ -1,3 +1,7 @@
+variable "project_name" {
+  type = string
+}
+
 ## TAGS
 variable "tags" {
   type    = map(string)

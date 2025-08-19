@@ -1,3 +1,7 @@
+variable "project_name" {
+  type = string
+}
+
 variable "vpcs" {
   type = list(object({
     name                             = optional(string)
