@@ -16,3 +16,5 @@ The repository is meant to be cloned as a single unit
 - [Functions](modules/functions)
 - [IAM](modules/iam)
 - [Inference](modules/inference)
+- [Instances](modules/instances)
+- [IOT](modules/iot)
