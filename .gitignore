@@ -2,3 +2,5 @@
 modules/*/.terraform.lock.hcl
 modules/*/.terraform
 modules/*/*.iml
+modules/*/examples/.terraform.lock.hcl
+modules/*/examples/.terraform
